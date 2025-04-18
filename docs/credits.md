@@ -11,8 +11,7 @@ direct contributions to the codebase have been instrumental in the development o
 `sbi` is licensed under the [Apache License
 (Apache-2.0)](https://www.apache.org/licenses/LICENSE-2.0) and
 
-> Copyright (C) 2020 Álvaro Tejero-Cantero, Jakob H. Macke, Jan-Matthis Lückmann,
-> Michael Deistler, Jan F. Bölts.
+> Copyright (C) 2020 Michael Deistler
 >
 > Copyright (C) 2020 Conor M. Durkan.
 >
